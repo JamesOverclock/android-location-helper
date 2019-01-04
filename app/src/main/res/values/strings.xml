@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationHelper</string>
+    <string name="quotedesc">Welcome! Where should we deliver to?</string>
+    <string name="pick_location">PICK LOCATION</string>
+    <string name="proceed">PROCEED</string>
+    <string name="tap_pick_location_to_get_your_address">Tap pick location to get your address</string>
+    <string name="my_location">MyLocation</string>
+</resources>
